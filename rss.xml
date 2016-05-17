@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[innovative psychosis]]></title>
         <description><![CDATA[innovative psychosis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/innovative-psychosis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 05:41:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 05:41:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/innovative-psychosis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What it's like to ride in the Tesla Model 3]]></title>
             <description><![CDATA[<article><h1>What it's like to ride in the Tesla Model 3</h1><p>HAWTHORNE, California - I've had a terrible flu all week. My body aches, my head is pounding, and my throat feels like it might fall out of my neck. Right now, though, I'm riding in the Tesla Model 3, one of the most hotly anticipated cars in the world...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7072e2c8eecfad7b01c2532650be669c8647d676.jpg"></article>]]></description>
             <link>http://mashable.com/2016/04/01/tesla-model-3-first-ride/#GmuWjVf0GZqo</link>
             <guid isPermaLink="false">0d2df48d-0069-4f58-bdab-15638ebda455</guid>
+            <pubDate>Tue, 17 May 2016 05:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remembering Prince: What The Purple One Can Teach You About Creativity]]></title>
+            <description><![CDATA[<article><h1>Remembering Prince: What The Purple One Can Teach You About Creativity</h1><p>Join Entrepreneur and today's most influential business innovators in Denver, May 4. Register Now " Prince, a pioneering musician and creative, died today at 57. This game-changing artist merged his special take on funk and rock into 39 albums, creating classics such as Purple Rain and Little Red Corvette.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f82bbbcf6c1a7fb1116234d47a5656ca64c6d538.jpg"></article>]]></description>
+            <link>https://www.entrepreneur.com/article/274499</link>
+            <guid isPermaLink="false">ceba3631-cb1f-4368-b5d4-71d5f379b92a</guid>
             <pubDate>Tue, 17 May 2016 05:41:08 GMT</pubDate>
         </item>
     </channel>
